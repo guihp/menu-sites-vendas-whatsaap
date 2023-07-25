@@ -700,7 +700,7 @@ height: 60px !important;
 .cidade-endereco {
    margin-bottom: 0;
 }
-
+/* organizando o badge (o botão fulutante e o numero que fica la em cima)*/
 .badge-total-carrinho {
    width: 25px;
    height: 25px;
