@@ -238,7 +238,7 @@ cardapio.metodos = {
 
 
 
-// adicionando o template que estava no html 
+// adicionando o template que estava no htmll 
 cardapio.templates = {
     item: `
     <div class="col-3 mb-5">
