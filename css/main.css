@@ -733,7 +733,7 @@ height: 60px !important;
    cursor: pointer;
    z-index: 1;
 }
-
+/*botão de dizer que foi adicionado ao carrinho*/
 .container-mensagem {
    position: fixed;
    right: 20px;
@@ -755,4 +755,24 @@ height: 60px !important;
 
 .toast.green {
    background-color: var(--color-geen);
+}
+
+/*adicionado o nome carrinho vazio*/
+.carrinho-vazio {
+   margin: 0 auto;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.carrinho-vazio i {
+   width: 50px;
+   height: 50px;
+   background-color: var(--color-secondary);
+   color: var(--color-primary);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+   border-radius: 50px;
+   margin-bottom: 10px;
 }
