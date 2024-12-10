@@ -26,10 +26,6 @@ API usada :  https://viacep.com.br/
 * Ligação pelo telefone
 * Designer responsivo
 
-## Palestrante
-
-Instagram : @limafornt
-  
 ## Imagens 
 ![image](https://github.com/guihp/menu-sites-vendas-whatsaap/assets/119879832/b1767dbb-39c5-4a5b-84f3-6599ade6dacd)
 ![image](https://github.com/guihp/menu-sites-vendas-whatsaap/assets/119879832/d8005172-1e5b-4168-a829-b05339fe0cbe)
